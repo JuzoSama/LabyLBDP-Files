@@ -1,0 +1,13 @@
+[
+  {"version":1},
+  {"type":"item_stack","value":"{Count:1b,id:\"minecraft:bowl\"}"},
+  {"type":"item_stack","value":"{Count:1b,id:\"born_in_chaos_v1:spider_mandible\"}"},
+  {"type":"item_stack","value":"{Count:1b,id:\"minecraft:chest\",tag:{display:{Name:\u0027{\"extra\":[{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"dark_gray\",\"text\":\"Kit de Chirurgie Rudimentaire\"}],\"text\":\"\"}\u0027}}}"},
+  {"type":"item_stack","value":"{Count:1b,id:\"overgeared:iron_plate\"}"},
+  {"type":"item_stack","value":"{Count:1b,id:\"minecraft:stone_pickaxe\",tag:{Damage:0}}"},
+  {"type":"item_stack","value":"{Count:1b,id:\"minecraft:tripwire_hook\",tag:{display:{Name:\u0027{\"extra\":[{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"gray\",\"text\":\"Aiguille\"}],\"text\":\"\"}\u0027}}}"},
+  {"type":"item_stack","value":"{Count:1b,id:\"minecraft:kelp\"}"},
+  {"type":"item_stack","value":"{Count:1b,id:\"brewinandchewin:coaster\"}"},
+  {"type":"item_stack","value":"{Count:1b,id:\"minecraft:stone_button\"}"},
+  {"type":"item_stack","value":"{Count:1b,id:\"irons_spellbooks:scroll\",tag:{\"irons_spellbooks:spell_container\":{data:[{id:\"irons_spellbooks:sunbeam\",index:0,level:10,locked:1b}],maxSpells:1,mustEquip:0b,spellWheel:0b}}}"}
+]

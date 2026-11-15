@@ -1,0 +1,31 @@
+
+[Performance]
+	#The distance at which unnecessary bones are un-rendered from O-Animals to improve performance.
+	"Unnecessary Bone Cull Distance" = 1024.0
+	#The distance at which unnecessary layers are un-rendered from O-Animals to improve performance.
+	"Unnecessary Layer Cull Distance" = 2048.0
+	#Should animal rendering/ cubes be hidden when they're behind solid walls/ unseen? Does not affect actual mechanics/ entity loading.
+	"Cull Bodies When Hidden" = true
+	#Should O-Animals run simplified, vanilla-styled models? This option may be good for those on lower-end computers/ those having performance issues with the complex LO models.
+	#This option significantly "dumbs down" LO animal models to allow for better performance. With this enabled, your FPS may be able to double or even triple, especially in highly populated areas. For this reason, animal markings, visual cosmetics, and breed dimorphism cannot render on these simpler models. They are almost purely vanilla, only taking on genetic base colors. 
+	#Restart your game after changing for best results. Some animals may not yet be included.
+	"Performance Models [Experimental]" = false
+
+[GUI]
+	#Should coats, markings, speed, jump strength and health show up on certain O-Mount GUIs?
+	"Mount GUI Extras" = true
+	#Should the sprint timer render on equines? *Note that this does not disable the mechanic itself, just the visual timer.
+	"Visual Horse Sprint Timer" = false
+	#Should the sprint HUD render on equines? *Note that this does not disable the mechanic itself, just the visual bar.
+	"Visual Horse Sprint HUD" = true
+	#X location value for the Sprint HUD. Default is 92.
+	"Horse Sprint HUD X Location" = 92
+	#Y location value for the Sprint HUD. Default is 52.
+	"Horse Sprint HUD Y Location" = 52
+	#Should text that states the gender of an O-Mount render along with the colored dot?
+	"Visual Accessibility Gender Text" = false
+
+["Cosmetic Preferences"]
+	#Should Brand Tags render on animals that have been tagged?
+	"Render Brand Tags" = true
+

@@ -522,16 +522,6 @@
           }
         },
         {
-          "id": "xfacthd.atlasviewer:atlasviewer:5.1.2@jar",
-          "name": "AtlasViewer",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 207003,
-            "url": "https://raw.githubusercontent.com/JuzoSama/LabyLBDP-Files/main/servers/LabyLBDP-1.20.1/forgemods/required/AtlasViewer-5.1.2.jar",
-            "MD5": "e0cb0c3b682d83839dd016f71bc23316"
-          }
-        },
-        {
           "id": "io.github.kosmx:bendylib:4.0.0@jar",
           "name": "Bendy lib",
           "type": "ForgeMod",
@@ -739,16 +729,6 @@
             "size": 10873769,
             "url": "https://raw.githubusercontent.com/JuzoSama/LabyLBDP-Files/main/servers/LabyLBDP-1.20.1/forgemods/required/CustomNPCs-1.20.1-GBPort-Unofficial-1.20.1.20260711.jar",
             "MD5": "3875c7b5f671470fb966482fb1d1500a"
-          }
-        },
-        {
-          "id": "com.razz:decocraft:3.0.4-1.20.1@jar",
-          "name": "Decocraft",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 94319937,
-            "url": "https://raw.githubusercontent.com/JuzoSama/LabyLBDP-Files/main/servers/LabyLBDP-1.20.1/forgemods/required/decocraft-3.0.4-1.20.1-slim.jar",
-            "MD5": "27f512f2b099c8955f87ca5c22fc9cb5"
           }
         },
         {

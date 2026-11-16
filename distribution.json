@@ -662,6 +662,16 @@
           }
         },
         {
+          "id": "com.connectivity:connectivity:1.20.1-7.7@jar",
+          "name": "Connectivity Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 122337,
+            "url": "https://raw.githubusercontent.com/JuzoSama/LabyLBDP-Files/main/servers/LabyLBDP-1.20.1/forgemods/required/connectivity-1.20.1-7.7.jar",
+            "MD5": "881cfb6accfb57990ace01e2422c71a7"
+          }
+        },
+        {
           "id": "com.copycatsplus:copycats:3.0.10+mc.1.20.1-forge@jar",
           "name": "Create: Copycats+",
           "type": "ForgeMod",
@@ -699,6 +709,16 @@
             "size": 1144128,
             "url": "https://raw.githubusercontent.com/JuzoSama/LabyLBDP-Files/main/servers/LabyLBDP-1.20.1/forgemods/required/CreativeCore_FORGE_v2.12.39_mc1.20.1.jar",
             "MD5": "941e290ecd7ca54c2ed6a543b68d754b"
+          }
+        },
+        {
+          "id": "com.cupboard:cupboard:1.20.1-4.2@jar",
+          "name": "Cupboard utilities",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 33422,
+            "url": "https://raw.githubusercontent.com/JuzoSama/LabyLBDP-Files/main/servers/LabyLBDP-1.20.1/forgemods/required/cupboard-1.20.1-4.2.jar",
+            "MD5": "c44e0bbce8481bdc54cd859669bc3930"
           }
         },
         {
@@ -1016,13 +1036,13 @@
           }
         },
         {
-          "id": "mezz.jei:jei:15.56.0.205@jar",
-          "name": "Just Enough Items",
+          "id": "team.creative:itemphysic:1.8.17@jar",
+          "name": "ItemPhysic",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1778129,
-            "url": "https://raw.githubusercontent.com/JuzoSama/LabyLBDP-Files/main/servers/LabyLBDP-1.20.1/forgemods/required/jei-1.20.1-forge-15.56.0.205.jar",
-            "MD5": "44bb8a6e9634ca96bfab19e515db3318"
+            "size": 55877,
+            "url": "https://raw.githubusercontent.com/JuzoSama/LabyLBDP-Files/main/servers/LabyLBDP-1.20.1/forgemods/required/ItemPhysic_FORGE_v1.8.17_mc1.20.1.jar",
+            "MD5": "362667191438bfa43106af8e0970091d"
           }
         },
         {

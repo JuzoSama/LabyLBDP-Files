@@ -532,20 +532,6 @@
           }
         },
         {
-          "id": "generated.forgemod:axiom:6.0.5-for-MC1.20.1@jar",
-          "name": "Axiom",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 47163660,
-            "url": "https://raw.githubusercontent.com/JuzoSama/LabyLBDP-Files/main/servers/LabyLBDP-1.20.1/forgemods/optionaloff/Axiom-6.0.5-for-MC1.20.1.jar",
-            "MD5": "1329f96cf60f2914947ad9ecc5a7cdb5"
-          },
-          "required": {
-            "value": false,
-            "def": false
-          }
-        },
-        {
           "id": "io.github.kosmx:bendylib:4.0.0@jar",
           "name": "Bendy lib",
           "type": "ForgeMod",
@@ -663,26 +649,6 @@
             "size": 304561,
             "url": "https://raw.githubusercontent.com/JuzoSama/LabyLBDP-Files/main/servers/LabyLBDP-1.20.1/forgemods/required/CNPC-Gecko-Addon-1.20.1-1.0.14.jar",
             "MD5": "3651a477525df8dec85d58a41ba64be5"
-          }
-        },
-        {
-          "id": "generated.forgemod:connector:1.0.0-beta.49+1.20.1@jar",
-          "name": "Connector",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 5046108,
-            "url": "https://raw.githubusercontent.com/JuzoSama/LabyLBDP-Files/main/servers/LabyLBDP-1.20.1/forgemods/required/Connector-1.0.0-beta.49+1.20.1.jar",
-            "MD5": "cffecb61f4026213b4a5ebb6dcd6b8bf"
-          }
-        },
-        {
-          "id": "dev.su5ed.sinytra:connectorextras:1.11.2+1.20.1@jar",
-          "name": "Connector Extras",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 182464,
-            "url": "https://raw.githubusercontent.com/JuzoSama/LabyLBDP-Files/main/servers/LabyLBDP-1.20.1/forgemods/required/ConnectorExtras-1.11.2+1.20.1.jar",
-            "MD5": "6a79978270b2aa5ddc42c2be4f4d73a7"
           }
         },
         {
@@ -833,16 +799,6 @@
             "size": 1360685,
             "url": "https://raw.githubusercontent.com/JuzoSama/LabyLBDP-Files/main/servers/LabyLBDP-1.20.1/forgemods/required/exposure-1.20.1-1.7.16-forge.jar",
             "MD5": "5e0d88ba6f4cfe04c6d8158f91b038db"
-          }
-        },
-        {
-          "id": "net.fabricmc.fabric.impl.sinytra:fabric_api:0.92.6+1.11.15+1.20.1@jar",
-          "name": "Forgified Fabric API",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3065815,
-            "url": "https://raw.githubusercontent.com/JuzoSama/LabyLBDP-Files/main/servers/LabyLBDP-1.20.1/forgemods/required/fabric-api-0.92.6+1.11.15+1.20.1.jar",
-            "MD5": "1ddac895d858a228bd0aa8f43cbf4b15"
           }
         },
         {
@@ -2698,6 +2654,17 @@
             "url": "https://raw.githubusercontent.com/JuzoSama/LabyLBDP-Files/main/servers/LabyLBDP-1.20.1/files/config/attributeslib.cfg",
             "MD5": "f8872923e20d465ce30bceec3525710e",
             "path": "config/attributeslib.cfg"
+          }
+        },
+        {
+          "id": ".axiom.json.backup",
+          "name": ".axiom.json.backup",
+          "type": "File",
+          "artifact": {
+            "size": 9494,
+            "url": "https://raw.githubusercontent.com/JuzoSama/LabyLBDP-Files/main/servers/LabyLBDP-1.20.1/files/config/axiom/.axiom.json.backup",
+            "MD5": "8adfbd33d02cf597bc68ad5422a0a0a7",
+            "path": "config/axiom/.axiom.json.backup"
           }
         },
         {
@@ -5767,6 +5734,50 @@
             "url": "https://raw.githubusercontent.com/JuzoSama/LabyLBDP-Files/main/servers/LabyLBDP-1.20.1/files/config/worldedit/worldedit.properties",
             "MD5": "4f9e6dec842a205e0b693c758b4a0461",
             "path": "config/worldedit/worldedit.properties"
+          }
+        },
+        {
+          "id": "Axiom-6.0.5-for-MC1.20.1.jar",
+          "name": "Axiom-6.0.5-for-MC1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 47163660,
+            "url": "https://raw.githubusercontent.com/JuzoSama/LabyLBDP-Files/main/servers/LabyLBDP-1.20.1/files/mods/Axiom-6.0.5-for-MC1.20.1.jar",
+            "MD5": "1329f96cf60f2914947ad9ecc5a7cdb5",
+            "path": "mods/Axiom-6.0.5-for-MC1.20.1.jar"
+          }
+        },
+        {
+          "id": "Connector-1.0.0-beta.49+1.20.1.jar",
+          "name": "Connector-1.0.0-beta.49+1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 5046108,
+            "url": "https://raw.githubusercontent.com/JuzoSama/LabyLBDP-Files/main/servers/LabyLBDP-1.20.1/files/mods/Connector-1.0.0-beta.49+1.20.1.jar",
+            "MD5": "cffecb61f4026213b4a5ebb6dcd6b8bf",
+            "path": "mods/Connector-1.0.0-beta.49+1.20.1.jar"
+          }
+        },
+        {
+          "id": "ConnectorExtras-1.11.2+1.20.1.jar",
+          "name": "ConnectorExtras-1.11.2+1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 182464,
+            "url": "https://raw.githubusercontent.com/JuzoSama/LabyLBDP-Files/main/servers/LabyLBDP-1.20.1/files/mods/ConnectorExtras-1.11.2+1.20.1.jar",
+            "MD5": "6a79978270b2aa5ddc42c2be4f4d73a7",
+            "path": "mods/ConnectorExtras-1.11.2+1.20.1.jar"
+          }
+        },
+        {
+          "id": "fabric-api-0.92.6+1.11.15+1.20.1.jar",
+          "name": "fabric-api-0.92.6+1.11.15+1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 3065815,
+            "url": "https://raw.githubusercontent.com/JuzoSama/LabyLBDP-Files/main/servers/LabyLBDP-1.20.1/files/mods/fabric-api-0.92.6+1.11.15+1.20.1.jar",
+            "MD5": "1ddac895d858a228bd0aa8f43cbf4b15",
+            "path": "mods/fabric-api-0.92.6+1.11.15+1.20.1.jar"
           }
         }
       ]

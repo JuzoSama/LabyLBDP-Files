@@ -532,20 +532,6 @@
           }
         },
         {
-          "id": "generated.forgemod:axiompatch:1.0-SNAPSHOT-1.20.1@jar",
-          "name": "AxiomPatch",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2656,
-            "url": "https://raw.githubusercontent.com/JuzoSama/LabyLBDP-Files/main/servers/LabyLBDP-1.20.1/forgemods/optionaloff/AxiomPatch-1.0-SNAPSHOT-1.20.1.jar",
-            "MD5": "1a8891e4e29b463502b48547f431abb8"
-          },
-          "required": {
-            "value": false,
-            "def": false
-          }
-        },
-        {
           "id": "io.github.kosmx:bendylib:4.0.0@jar",
           "name": "Bendy lib",
           "type": "ForgeMod",
@@ -673,6 +659,16 @@
             "size": 304561,
             "url": "https://raw.githubusercontent.com/JuzoSama/LabyLBDP-Files/main/servers/LabyLBDP-1.20.1/forgemods/required/CNPC-Gecko-Addon-1.20.1-1.0.14.jar",
             "MD5": "3651a477525df8dec85d58a41ba64be5"
+          }
+        },
+        {
+          "id": "com.copycatsplus:copycats:3.0.10+mc.1.20.1-forge@jar",
+          "name": "Create: Copycats+",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2003713,
+            "url": "https://raw.githubusercontent.com/JuzoSama/LabyLBDP-Files/main/servers/LabyLBDP-1.20.1/forgemods/required/copycats-3.0.10+mc.1.20.1-forge.jar",
+            "MD5": "a01e55fd62e02a141083f45865e72cfc"
           }
         },
         {
@@ -1057,6 +1053,16 @@
             "size": 73916104,
             "url": "https://raw.githubusercontent.com/JuzoSama/LabyLBDP-Files/main/servers/LabyLBDP-1.20.1/forgemods/required/L_Enders_Cataclysm-3.31.jar",
             "MD5": "a296c93419f679f0da7100da6e6e35af"
+          }
+        },
+        {
+          "id": "fr.labyrinthe:labyrinthe:5.0.0@jar",
+          "name": "Labyrinthe - Staff, Identites, Zones, Skins",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 15630956,
+            "url": "https://raw.githubusercontent.com/JuzoSama/LabyLBDP-Files/main/servers/LabyLBDP-1.20.1/forgemods/required/labyrinthe-5.0.0.jar",
+            "MD5": "3e933af707c5d81d72676b97f880d41b"
           }
         },
         {
@@ -2800,6 +2806,28 @@
           }
         },
         {
+          "id": "biome_toggles.json",
+          "name": "biome_toggles.json",
+          "type": "File",
+          "artifact": {
+            "size": 1999,
+            "url": "https://raw.githubusercontent.com/JuzoSama/LabyLBDP-Files/main/servers/LabyLBDP-1.20.1/files/config/biomesoplenty/biome_toggles.json",
+            "MD5": "ef74c4378e87db15c420c2d8435870b6",
+            "path": "config/biomesoplenty/biome_toggles.json"
+          }
+        },
+        {
+          "id": "generation.toml",
+          "name": "generation.toml",
+          "type": "File",
+          "artifact": {
+            "size": 619,
+            "url": "https://raw.githubusercontent.com/JuzoSama/LabyLBDP-Files/main/servers/LabyLBDP-1.20.1/files/config/biomesoplenty/generation.toml",
+            "MD5": "0b34931102b4821e542acc03e910a609",
+            "path": "config/biomesoplenty/generation.toml"
+          }
+        },
+        {
           "id": "brewinandchewin-client.toml",
           "name": "brewinandchewin-client.toml",
           "type": "File",
@@ -2962,6 +2990,28 @@
             "url": "https://raw.githubusercontent.com/JuzoSama/LabyLBDP-Files/main/servers/LabyLBDP-1.20.1/files/config/connectorextras_energy_bridge-common.toml",
             "MD5": "5e5b1e0aca4e0a21012504b5d7721bbe",
             "path": "config/connectorextras_energy_bridge-common.toml"
+          }
+        },
+        {
+          "id": "copycats-client.toml",
+          "name": "copycats-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 342,
+            "url": "https://raw.githubusercontent.com/JuzoSama/LabyLBDP-Files/main/servers/LabyLBDP-1.20.1/files/config/copycats-client.toml",
+            "MD5": "ab8d56d84f2f6e457c812b76fa598c36",
+            "path": "config/copycats-client.toml"
+          }
+        },
+        {
+          "id": "copycats-common.toml",
+          "name": "copycats-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2167,
+            "url": "https://raw.githubusercontent.com/JuzoSama/LabyLBDP-Files/main/servers/LabyLBDP-1.20.1/files/config/copycats-common.toml",
+            "MD5": "7e6ab8a22a025a2460d9efa6158b28aa",
+            "path": "config/copycats-common.toml"
           }
         },
         {
@@ -3713,6 +3763,28 @@
           }
         },
         {
+          "id": "config.json",
+          "name": "config.json",
+          "type": "File",
+          "artifact": {
+            "size": 28,
+            "url": "https://raw.githubusercontent.com/JuzoSama/LabyLBDP-Files/main/servers/LabyLBDP-1.20.1/files/config/essential-mod-partner/config.json",
+            "MD5": "845936bf3faee04970d11535a80bf3aa",
+            "path": "config/essential-mod-partner/config.json"
+          }
+        },
+        {
+          "id": "data.cache.json",
+          "name": "data.cache.json",
+          "type": "File",
+          "artifact": {
+            "size": 18284,
+            "url": "https://raw.githubusercontent.com/JuzoSama/LabyLBDP-Files/main/servers/LabyLBDP-1.20.1/files/config/essential-mod-partner/data.cache.json",
+            "MD5": "20984bf47e80dee8eb291a55d52ad4f9",
+            "path": "config/essential-mod-partner/data.cache.json"
+          }
+        },
+        {
           "id": "exposure-client.toml",
           "name": "exposure-client.toml",
           "type": "File",
@@ -3741,7 +3813,7 @@
           "artifact": {
             "size": 290,
             "url": "https://raw.githubusercontent.com/JuzoSama/LabyLBDP-Files/main/servers/LabyLBDP-1.20.1/files/config/fabric/indigo-renderer.properties",
-            "MD5": "ffc978a9eb63ae0c3959c87e2d4aef84",
+            "MD5": "e2367c0d5b2a8faec19761065d788125",
             "path": "config/fabric/indigo-renderer.properties"
           }
         },
@@ -4445,7 +4517,7 @@
           "artifact": {
             "size": 297,
             "url": "https://raw.githubusercontent.com/JuzoSama/LabyLBDP-Files/main/servers/LabyLBDP-1.20.1/files/config/oculus.properties",
-            "MD5": "48936554ec5ac1de0bccc069078e0ca3",
+            "MD5": "f39591f1262d5f61847ab9a387eb2bf6",
             "path": "config/oculus.properties"
           }
         },
@@ -5787,7 +5859,7 @@
           "artifact": {
             "size": 2541,
             "url": "https://raw.githubusercontent.com/JuzoSama/LabyLBDP-Files/main/servers/LabyLBDP-1.20.1/files/config/worldedit/worldedit.properties",
-            "MD5": "4f9e6dec842a205e0b693c758b4a0461",
+            "MD5": "91fb1c6319d46aca065d4bcd26ea9c63",
             "path": "config/worldedit/worldedit.properties"
           }
         },

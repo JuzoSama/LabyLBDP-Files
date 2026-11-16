@@ -6,11 +6,6 @@
     "description": "Serveur RP Laby",
     "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
     "address": "91.197.6.27:24414",
-    "discord": {
-      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
-    },
     "mainServer": true,
     "autoconnect": true
   },

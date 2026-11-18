@@ -1016,13 +1016,13 @@
           }
         },
         {
-          "id": "team.creative:itemphysic:1.8.17@jar",
+          "id": "team.creative:itemphysic:1.8.4@jar",
           "name": "ItemPhysic",
           "type": "ForgeMod",
           "artifact": {
-            "size": 55877,
-            "url": "https://raw.githubusercontent.com/JuzoSama/LabyLBDP-Files/main/servers/LabyLBDP-1.20.1/forgemods/required/ItemPhysic_FORGE_v1.8.17_mc1.20.1.jar",
-            "MD5": "362667191438bfa43106af8e0970091d"
+            "size": 53321,
+            "url": "https://raw.githubusercontent.com/JuzoSama/LabyLBDP-Files/main/servers/LabyLBDP-1.20.1/forgemods/required/ItemPhysic_FORGE_v1.8.4_mc1.20.1.jar",
+            "MD5": "3cf9192117f63edd27852da17bb9fbbc"
           }
         },
         {
@@ -1056,13 +1056,13 @@
           }
         },
         {
-          "id": "fr.labyrinthe:labyrinthe:5.0.0@jar",
+          "id": "fr.labyrinthe:labyrinthe:15.0.0@jar",
           "name": "Labyrinthe - Staff, Identites, Zones, Skins",
           "type": "ForgeMod",
           "artifact": {
-            "size": 15630956,
-            "url": "https://raw.githubusercontent.com/JuzoSama/LabyLBDP-Files/main/servers/LabyLBDP-1.20.1/forgemods/required/labyrinthe-5.0.0.jar",
-            "MD5": "3e933af707c5d81d72676b97f880d41b"
+            "size": 16171825,
+            "url": "https://raw.githubusercontent.com/JuzoSama/LabyLBDP-Files/main/servers/LabyLBDP-1.20.1/forgemods/required/labyrinthe-15.0.0.jar",
+            "MD5": "d642d82c46dd00339be77a4a4e05155f"
           }
         },
         {

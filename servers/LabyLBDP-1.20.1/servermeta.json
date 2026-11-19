@@ -7,10 +7,34 @@
     "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
     "address": "91.197.6.27:24414",
     "mainServer": true,
-    "autoconnect": true
+    "autoconnect": true,
+    "javaOptions": {
+      "ram": {
+        "recommended": 6144,
+        "minimum": 5120
+      }
+    }
   },
   "forge": {
     "version": "47.4.10"
   },
-  "untrackedFiles": []
+  "untrackedFiles": [
+    {
+      "appliesTo": [
+        "files"
+      ],
+      "patterns": [
+        "config/*-client.toml",
+        "config/*-client.json",
+        "config/*-client.yaml",
+        "config/*_client.json",
+        "config/embeddium-options.json",
+        "config/oculus.properties",
+        "config/emotecraft.json",
+        "config/fpsreducer/**",
+        "config/plasmovoice/**",
+        "config/axiom/**"
+      ]
+    }
+  ]
 }

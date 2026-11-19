@@ -33,7 +33,7 @@
 	"The block breaking hardness of experiments" = 1
 
 ["Global Variables"]
-	"The amount of needed Proto Hiveminds for the world to change (Proto World Modifier)" = 3
+	"The amount of needed Proto Hiveminds for the world to change (Proto World Modifier)" = 1000
 	"Global Damage Modifier" = 1.0
 	"Global Health Modifier" = 1.0
 	"Global Armor Modifier" = 1.0
@@ -53,7 +53,7 @@
 	#Default true
 	"Should evolved and hyper have a damage cap on hard mode?" = true
 	#Default true
-	"Should a calamity load chunks?" = true
+	"Should a calamity load chunks?" = false
 	"Mobs to not render spore armor on" = ["minecraft:zombie"]
 
 ["Targeting Tasks"]
@@ -606,7 +606,7 @@
 		#Range: 1.0 ~ 1.7976931348623157E308
 		"Sets Mound range at the age of 4" = 20.0
 		#Default true
-		"Should the mound spread foliage and infect blocks?" = true
+		"Should the mound spread foliage and infect blocks?" = false
 		#Default false
 		"Should mounds be moved to the surface when summoned by a scamper?" = false
 
@@ -1214,7 +1214,7 @@
 	#Default false
 	"Should mobs be also able to spawn in daytime?" = false
 	#Default 40
-	MobCap = 40
+	MobCap = 25
 	#Default minecraft:is_overworld
 	"Dictates in what biome the infected spawn" = ["minecraft:is_overworld"]
 	#Default forge:is_cold,minecraft:deep_dark

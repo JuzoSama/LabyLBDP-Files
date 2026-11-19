@@ -1,0 +1,96 @@
+
+[spawn]
+	#Dimension du spawn (salle d'attente)
+	dimension = "minecraft:overworld"
+	#Range: -3.0E7 ~ 3.0E7
+	x = 0.5
+	#Range: -64.0 ~ 320.0
+	y = 100.0
+	#Range: -3.0E7 ~ 3.0E7
+	z = 0.5
+
+[start]
+	#Position de depart d'une identite toute neuve
+	dimension = "minecraft:overworld"
+	#Range: -3.0E7 ~ 3.0E7
+	x = 0.5
+	#Range: -64.0 ~ 320.0
+	y = 100.0
+	#Range: -3.0E7 ~ 3.0E7
+	z = 0.5
+
+[identity]
+	#Taille minimale en cm
+	#Range: 50 ~ 400
+	minHeightCm = 150
+	#Taille maximale en cm
+	#Range: 50 ~ 400
+	maxHeightCm = 210
+	#Range: 0 ~ 200
+	minAge = 16
+	#Range: 1 ~ 300
+	maxAge = 90
+	#Range: 3 ~ 64
+	nameMaxLength = 24
+	#Sauvegarde automatique des identites actives (en plus des sauvegardes a chaque objet pris/jete, a la mort et a la deconnexion)
+	#Range: 5 ~ 3600
+	autosaveSeconds = 30
+	#Nombre d'instantanes gardes par identite
+	#Range: 0 ~ 100
+	snapshotsKept = 10
+	#Jours RP ecoules pour 1 jour reel
+	#Range: 0 ~ 1000
+	rpDaysPerRealDay = 1
+	#Cache les noms au-dessus des tetes (le pseudo du compte ne doit pas fuiter)
+	hideNametags = true
+	hideJoinLeaveMessages = true
+	hideDeathAndAdvancementMessages = true
+
+[session]
+	#Le RP se joue par sessions (horaires fixes) ; hors session seul le staff entre dans ses identites
+	enabled = true
+	#Jours RP (jours Minecraft) par session : la duree du jour s'ajuste a la duree de la session
+	#Range: 1 ~ 100
+	rpDaysPerSession = 7
+	#Date de peremption des aliments (jours RP) ; manger un aliment perime provoque une indigestion
+	foodExpiry = true
+	#Fuseau horaire des horaires de session (ex. Europe/Paris)
+	timezone = "Europe/Paris"
+
+[staff]
+	#Les OP vanilla (niveau 2 et plus) passent toutes les permissions du mod
+	opBypassV2 = true
+	vanishBlocksPickup = true
+	vanishBlocksPublicChat = true
+
+[discord]
+	#URL de webhook Discord par defaut (laisser vide pour desactiver)
+	webhook = ""
+	#Webhook specifique aux tickets (vide = webhook par defaut)
+	webhookTickets = ""
+	webhookSkins = ""
+	webhookAlerts = ""
+	webhookSanctions = ""
+
+[skins]
+	#Poids maximal du PNG en Ko
+	#Range: 16 ~ 16384
+	maxFileKb = 4096
+	#Range: 1 ~ 243
+	maxSkinsPerPlayer = 243
+	#Delai entre deux changements de skin
+	#Range: 0 ~ 3600
+	changeCooldownSeconds = 10
+	#Range: 1 ~ 1000
+	addsPerHour = 12
+	#Un skin doit etre accepte par le staff avant d'etre porte
+	preValidation = false
+	#Domaines autorises pour les liens d'images ("*" = tous les sites publics)
+	allowedHosts = ["*"]
+
+[sounds]
+	#Range: 64 ~ 65536
+	maxFileKb = 16384
+	#Domaines autorises pour /son, fichiers .ogg en lien direct ("*" = tous)
+	allowedHosts = ["*"]
+

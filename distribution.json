@@ -1072,13 +1072,13 @@
           }
         },
         {
-          "id": "fr.labyrinthe:labyrinthe:22.0.0@jar",
+          "id": "fr.labyrinthe:labyrinthe:24.0.0@jar",
           "name": "Labyrinthe - Staff, Identites, Zones, Skins",
           "type": "ForgeMod",
           "artifact": {
-            "size": 16305621,
-            "url": "https://raw.githubusercontent.com/JuzoSama/LabyLBDP-Files/main/servers/LabyLBDP-1.20.1/forgemods/required/labyrinthe-22.0.0.jar",
-            "MD5": "adcfc2d371e685078294d1ef97cf3dea"
+            "size": 16310646,
+            "url": "https://raw.githubusercontent.com/JuzoSama/LabyLBDP-Files/main/servers/LabyLBDP-1.20.1/forgemods/required/labyrinthe-24.0.0.jar",
+            "MD5": "ae9cbf2e1f88a3c07f1d7162c1c6ee2d"
           }
         },
         {
